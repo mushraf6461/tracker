@@ -1,7 +1,7 @@
 app:
   code: TRACKER
   name: Tracker
-  notify: appz@ecloucontrol.com
+  notify: mmushraf@ecloucontrol.com
   
 build:
   build_file: none
@@ -11,7 +11,7 @@ build:
   version: 2.24
   
 deploy:
-  context: ecloudcontrol/PROD
+  context: mushraf6461/DEV
   ingress: none
   port:
   - 80
