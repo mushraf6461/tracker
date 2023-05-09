@@ -12,7 +12,6 @@ build:
   
 deploy:
   context: mushraf6461/DEV
-  ingress: none
   port:
   - 80
   replicas: 1
